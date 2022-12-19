@@ -1,1 +1,1 @@
-# DataType-9.zh-class
+# Practical test

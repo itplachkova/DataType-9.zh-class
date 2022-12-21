@@ -1,0 +1,7 @@
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\bin\Debug\IntNumber.exe.config
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\bin\Debug\IntNumber.exe
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\bin\Debug\IntNumber.pdb
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\obj\Debug\IntNumber.csproj.AssemblyReference.cache
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\obj\Debug\IntNumber.csproj.CoreCompileInputs.cache
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\obj\Debug\IntNumber.exe
+E:\2022_2023\Теми\УП програмиране\Exam\IntNumber\obj\Debug\IntNumber.pdb
